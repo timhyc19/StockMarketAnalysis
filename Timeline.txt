@@ -1,0 +1,4 @@
+Timeline of Pipeline:
+
+YahooFinance.ipynb --> 5 seconds
+webscrape.ipynb --> X seconds
